@@ -2,6 +2,8 @@
 
 Александра Ефтимова, индекс 193007
 
+link: https://github.com/AleksandraEftimova/SI_lab2_193007.git
+
 
 **2. Control Flow Graph**
 
